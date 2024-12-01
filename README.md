@@ -13,5 +13,6 @@ Importante Empiece aquí: [¿Cómo usar los repositorios y las estaciones?](http
 * Estaciones Resueltas, pueden probarse en el [simulador web de RoboDk](https://web.robodk.com/es/web) o descargar para uso local
 
 ## Etapa 7
+* Video [Armado grilla de cajas](https://youtu.be/mpSSTEH-SyQ)
 * Video de ejemplo: [Etapa 7](https://youtu.be/bZpie9SBOMM)
 * Estaciones Resueltas, pueden probarse en el [simulador web de RoboDk](https://web.robodk.com/es/web) o descargar para uso local
